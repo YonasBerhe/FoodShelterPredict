@@ -15,3 +15,6 @@ https://www.npmjs.com/package/machine_learning
 The library automatically finds the best criteria to split 
 on by seeing how much entropy reduction we can have by testing
 every criteria (dt.build()).
+
+#Link to paper:
+https://docs.google.com/document/d/1bsffeQDFrKNATK_e6G84L-ACerQr7LNzIJGBcQW5Vxg/edit?usp=sharing
